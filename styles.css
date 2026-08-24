@@ -1,10 +1,12 @@
 html {
     background-color: pink;
 }
+body {
+    margin: 0;
+}
 
 p {
     color: rgb(48, 103, 255);
-    text-align: center;
 }
 .titleone {
     color: rgb(255, 0, 140);
@@ -19,4 +21,19 @@ p {
     color: rgb(4, 0, 255);
     font-size: 60px;
     font-weight: bold;
+}
+.imageyay {
+    width: 200px;
+}
+#home {
+    background-color: black;
+    height: 100px;
+    padding: 10px;
+    font-size: 30px;
+}
+.pageTitle {
+    color: rgb(255, 0, 140);
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
 }
