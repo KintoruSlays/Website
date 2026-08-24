@@ -8,7 +8,15 @@ p {
 }
 .titleone {
     color: rgb(255, 0, 140);
+    font-size: 20px;
 }
 .titletwo {
     color: rgb(187, 0, 56);
+    font-size: 50px;
+    font-weight: bold;
+}
+.important {
+    color: rgb(4, 0, 255);
+    font-size: 60px;
+    font-weight: bold;
 }
